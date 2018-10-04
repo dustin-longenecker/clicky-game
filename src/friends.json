@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "name": "Agent Smith",
+    "image": "images/agentsmith.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Cypher",
+    "image": "/images/cypher.jpeg",
+    "clicked": false
+
+  },
+  {
+    "id": 3,
+    "name": "Merovingian & Persephone",
+    "image": "/images/escort.jpeg",
+    "clicked": false
+
+  },
+  {
+    "id": 4,
+    "name": "Seraph",
+    "image": "/images/ghost.jpeg",
+    "clicked": false
+
+  },
+  {
+    "id": 5,
+    "name": "Morpheus",
+    "image": "/images/morpheus.jpeg",
+    "clicked": false
+
+  },
+  {
+    "id": 6,
+    "name": "Neo",
+    "image": "/images/neo.jpeg",
+    "clicked": false
+
+  },
+  {
+    "id": 7,
+    "name": "Neo Also",
+    "image": "/images/neo2.jpeg",
+    "clicked": false
+
+  },
+  {
+    "id": 8,
+    "name": "Red or Blue",
+    "image": "/images/redorblue.jpeg",
+    "clicked": false
+
+  },
+  {
+    "id": 9,
+    "name": "The Architect",
+    "image": "/images/thearchitect.png",
+    "clicked": false
+
+  },
+  {
+    "id": 10,
+    "name": "The Oracle",
+    "image": "/images/theoracle.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 11,
+    "name": "The Train Man",
+    "image": "/images/trainman.jpeg",
+    "clicked": false
+
+  },
+  {
+    "id": 12,
+    "name": "Trinity",
+    "image": "/images/trinity.jpeg",
+    "clicked": false
+
+  }
+]
